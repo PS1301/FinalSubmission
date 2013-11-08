@@ -1,0 +1,275 @@
+[
+  {
+    "name": "Small Green Circle",
+    "image": {
+     "url": "i1.png",
+	 "title": "11Small Green Circle"
+    },
+    "url": "",
+    "price": "3500.00",
+	"attributes": {
+		"shape": ["circle"],
+		"size": ["Small","large"],
+		"colour": ["green"],
+		"checkered": ["no"] 
+		}
+  },
+  
+  {
+    "name": "Big Blue Circle",
+    "image": {
+     "url": "i2.png",
+	 "title": "Big Blue Circle "
+    },
+    "url": "/shop/item/oversized-alexa-leather-bag",
+    "price": "1500.00",
+	"attributes": {
+		"shape": ["circle"],
+		"size": ["large"],
+		"colour": ["blue"],
+		"checkered": ["no"] 
+		}
+  },
+  
+    {
+    "name": "Big Green Circle",
+    "image": {
+     "url": "i3.png",
+	 "title": "Big Green Circle "
+    },
+    "url": "/shop/item/oversized-alexa-leather-bag",
+    "price": "1700.00",
+	"attributes": {
+		"shape": ["circle"],
+		"size": ["large"],
+		"colour": ["green"],
+		"checkered": ["no"] 
+		}
+  },
+  
+    {
+    "name": "Big Blue Triangle",
+    "image": {
+     "url": "i4.png",
+	 "title": "Big Blue Triangle "
+    },
+    "url": "",
+    "price": "1250.00",
+	"attributes": {
+		"shape": ["triangle"],
+		"size": ["large"],
+		"colour": ["blue"],
+		"checkered": ["no"] 
+		}
+  },
+  
+    {
+    "name": "Big Orange Triangle",
+    "image": {
+     "url": "i5.png",
+	 "title": "Big Orange Triangle "
+    },
+    "url": "",
+    "price": "3350.00",
+	"attributes": {
+		"shape": ["triangle"],
+		"size": ["large"],
+		"colour": ["orange"],
+		"checkered": ["no"] 
+		}
+  },
+  
+    {
+    "name": "Big Orange Triangle",
+    "image": {
+     "url": "i6.png",
+	 "title": "Big Orange Triangle "
+    },
+    "url": "",
+    "price": "3350.00",
+	"attributes": {
+		"shape": ["triangle"],
+		"size": ["large"],
+		"colour": ["orange"],
+		"checkered": ["yes"] 
+		}
+  },
+  
+    {
+    "name": "Big Green Square",
+    "image": {
+     "url": "i7.png",
+	 "title": "Big Green Square"
+    },
+    "url": "",
+    "price": "230.00",
+	"attributes": {
+		"shape": ["square"],
+		"size": ["large"],
+		"colour": ["green"],
+		"checkered": ["no"] 
+		}
+  },
+  
+    {
+    "name": "Small Orange Circle",
+    "image": {
+     "url": "i8.png",
+	 "title": "Small Orange Circle"
+    },
+    "url": "",
+    "price": "110.00",
+	"attributes": {
+		"shape": ["circle"],
+		"size": ["small"],
+		"colour": ["orange"],
+		"checkered": ["no"] 
+		}
+  },
+  
+    {
+    "name": "Small Blue Circle",
+    "image": {
+     "url": "i9.png",
+	 "title": "Small Blue Circle"
+    },
+    "url": "",
+    "price": "665.00",
+	"attributes": {
+		"shape": ["circle"],
+		"size": ["small"],
+		"colour": ["blue"],
+		"checkered": ["yes"] 
+		}
+  },
+  
+    {
+    "name": "Large Green Triangle",
+    "image": {
+     "url": "i10.png",
+	 "title": "Large Green Triangle"
+    },
+    "url": "",
+    "price": "465.00",
+	"attributes": {
+		"shape": ["triangle"],
+		"size": ["large"],
+		"colour": ["green"],
+		"checkered": ["yes"] 
+		}
+  },
+  
+    {
+    "name": "Small Blue Circle",
+    "image": {
+     "url": "i11.png",
+	 "title": "Small Blue Circle"
+    },
+    "url": "",
+    "price": "915.00",
+	"attributes": {
+		"shape": ["circle"],
+		"size": ["small"],
+		"colour": ["blue"],
+		"checkered": ["no"] 
+		}
+  },
+  
+    {
+    "name": "Large Green Square",
+    "image": {
+     "url": "i12.png",
+	 "title": "Large Green Square"
+    },
+    "url": "",
+    "price": "345.00",
+	"attributes": {
+		"shape": ["square"],
+		"size": ["large"],
+		"colour": ["green"],
+		"checkered": ["yes"] 
+		}
+  },
+  
+    {
+    "name": "Large Circle",
+    "image": {
+     "url": "i13.png",
+	 "title": "Large Circle"
+    },
+    "url": "",
+    "price": "395.00",
+	"attributes": {
+		"shape": ["circle"],
+		"size": ["large"],
+		"colour": ["green", "blue"],
+		"checkered": ["no"] 
+		}
+  },
+  
+  
+    {
+    "name": "Large Circle",
+    "image": {
+     "url": "i14.png",
+	 "title": "Large Circle"
+    },
+    "url": "",
+    "price": "395.00",
+	"attributes": {
+		"shape": ["circle"],
+		"size": ["large"],
+		"colour": ["green", "orange"],
+		"checkered": ["no"] 
+		}
+  },
+  
+    {
+    "name": "Large Square",
+    "image": {
+     "url": "i15.png",
+	 "title": "Large Square"
+    },
+    "url": "",
+    "price": "85.00",
+	"attributes": {
+		"shape": ["square"],
+		"size": ["large"],
+		"colour": ["green", "orange"],
+		"checkered": ["no"] 
+		}
+  },
+  
+  
+    {
+    "name": "Small Triangle",
+    "image": {
+     "url": "i16.png",
+	 "title": "Small Triangle"
+    },
+    "url": "",
+    "price": "23.95",
+	"attributes": {
+		"shape": ["triangle"],
+		"size": ["small"],
+		"colour": ["orange"],
+		"checkered": ["no"] 
+		}
+  },
+ 
+    {
+    "name": "Small Square",
+    "image": {
+     "url": "i17.png",
+	 "title": "Small Square"
+    },
+    "url": "",
+    "price": "9.95",
+	"attributes": {
+		"shape": ["square"],
+		"size": ["small"],
+		"colour": ["orange", "green"],
+		"checkered": ["no"] 
+		}
+  }
+]

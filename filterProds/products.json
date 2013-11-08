@@ -1,0 +1,299 @@
+[{
+    "sort_order": "1",
+    "web_name": "oversized-alexa-leather-bag",
+    "status": "available",
+    "name": "Angus Bull",
+    "image": {
+		"url": "/persistent/catalogue_images/products/76939-004-2ce56c26.jpg",
+		"title": "Angus",
+		"description": "dadsad"
+    },
+    "is_new": 0,
+    "product_id": "22797",
+    "is_on_sale": 0,
+    "url": "/shop/item/oversized-alexa-leather-bag",
+    "is_featured": 0,
+    "rrp": "0.00",
+    "price": "3500.00",
+    "code": "94464",
+	"attributes": {
+		"product": ["bag"],
+		"size": ["small","medium"],
+		"colour": ["black"]
+	}
+},
+
+{
+    "sort_order": "1",
+    "web_name": "fine-mens-chanel-neck-tie-gift-box-set-with-cufflinks",
+    "status": "available",
+    "name": "Chanel Neck Tie Gift Box Set with Cufflinks",
+    "image": {
+      "url": "/persistent/catalogue_images/products/tie02_002.jpg",
+      "title": "Fine Men's Chanel Neck Tie Gift Box Set with Cufflinks",
+      "description": ""
+    },
+    "is_new": 0,
+    "product_id": "22799",
+    "is_on_sale": 0,
+    "url": "/shop/item/fine-mens-chanel-neck-tie-gift-box-set-with-cufflinks",
+    "is_featured": 0,
+    "rrp": "0.00",
+    "price": "36.91",
+    "code": "Chan2433",
+	"attributes": {
+		"product": ["neck tie", "cufflinks"],
+		"size": ["small", "medium", "large"],		
+		"colour": ["navy", "black"]
+	}
+},
+  
+{
+    "sort_order": "1",
+    "web_name": "hugo-boss-tonal-solid",
+    "status": "available",
+    "name": "Hugo Boss Tonal Solid",
+    "image": {
+      "url": "/persistent/catalogue_images/products/dress10_001.jpg",
+      "title": "Boss by Hugo Boss Dress Shirt, Tonal Solid",
+      "description": ""
+    },
+    "is_new": 0,
+    "product_id": "22860",
+    "is_on_sale": 0,
+    "url": "/shop/item/hugo-boss-tonal-solid",
+    "is_featured": 0,
+    "rrp": "0.00",
+    "price": "115.00",
+    "code": "369619",
+	"attributes": {
+		"product": ["shirt"],
+		"size": ["small", "medium", "large"],		
+		"colour": ["pink"]
+	}
+},
+  
+{
+    "sort_order": "1",
+    "web_name": "knot-sterling-silver-clutch",
+    "status": "available",
+    "name": "Knot Sterling Silver Clutch",
+    "image": {
+      "url": "/persistent/catalogue_images/products/clutch01_001.jpg",
+      "title": "Knot Sterling Silver Clutch",
+      "description": ""
+    },
+    "is_new": 0,
+    "product_id": "22798",
+    "is_on_sale": 1,
+    "url": "/shop/item/knot-sterling-silver-clutch",
+    "is_featured": 0,
+    "rrp": "0.00",
+    "price": "9119.15",
+    "code": "95501",
+	"attributes": {
+		"product": ["clutch"],
+		"size": ["small"],		
+		"colour": ["silver", "black"]
+	}
+},
+ 
+ {
+    "sort_order": "1",
+    "web_name": "levis-plaque-buckle-belt",
+    "status": "available",
+    "name": "Levi'sÂ® Plaque Buckle Belt",
+    "image": {
+      "url": "/persistent/catalogue_images/products/belt01_001.jpg",
+      "title": "Levi'sÂ® Plaque Buckle Belt",
+      "description": ""
+    },
+    "is_new": 0,
+    "product_id": "22794",
+    "is_on_sale": 0,
+    "url": "/shop/item/levis-plaque-buckle-belt",
+    "is_featured": 0,
+    "rrp": "0.00",
+    "price": "39.50",
+    "code": "3959396",
+	"attributes": {
+		"product": ["belt"],
+		"size": ["small", "medium", "large"],		
+		"colour": ["brown"]
+	}
+},
+
+{
+    "sort_order": "1",
+    "web_name": "ralph-lauren-classic-fit-polo",
+    "status": "available",
+    "name": "Ralph Lauren Classic Fit Polo",
+    "image": {
+      "url": "/persistent/catalogue_images/products/polo01_001.jpg",
+      "title": "Ralph Lauren Classic-Fit Polo",
+      "description": ""
+    },
+    "is_new": 0,
+    "product_id": "22801",
+    "is_on_sale": 0,
+    "url": "/shop/item/ralph-lauren-classic-fit-polo",
+    "is_featured": 0,
+    "rrp": "0.00",
+    "price": "75.00",
+    "code": "2592874",
+	"attributes": {
+		"product": ["shirt"],
+		"size": ["small", "medium", "large"],		
+		"colour": ["yellow", "orange", "blue", "green", "red", "pink"]
+	}
+ },
+  
+{
+    "sort_order": "1",
+    "web_name": "rocco-laser-cut-leather-studded-bag",
+    "status": "available",
+    "name": "Rocco Laser-cut Leather Studded Bag",
+    "image": {
+      "url": "/persistent/catalogue_images/products/totes01_001.jpg",
+      "title": "Rocco Laser-cut Leather Studded Bag",
+      "description": ""
+    },
+    "is_new": 0,
+    "product_id": "22802",
+    "is_on_sale": 1,
+    "url": "/shop/item/rocco-laser-cut-leather-studded-bag",
+    "is_featured": 0,
+    "rrp": "0.00",
+    "price": "1182.61",
+    "code": "94522",
+	"attributes": {
+		"product": ["bag"],
+		"size": ["medium", "large"],		
+		"colour": ["black"]
+	}
+},
+  
+{
+    "sort_order": "1",
+    "web_name": "t-bar-satin-sandals",
+    "status": "available",
+    "name": "T-bar Satin Sandals",
+    "image": {
+      "url": "/persistent/catalogue_images/products/shoes01_001.jpg",
+      "title": "T-bar Satin Sandals",
+      "description": ""
+    },
+    "is_new": 0,
+    "product_id": "22796",
+    "is_on_sale": 0,
+    "url": "/shop/item/t-bar-satin-sandals",
+    "is_featured": 0,
+    "rrp": "0.00",
+    "price": "214.80",
+    "code": "84517",
+	"attributes": {
+		"product": ["sandals"],
+		"size": ["small", "medium", "large"],		
+		"colour": ["black"]
+	}
+},
+ 
+{
+    "sort_order": "2",
+    "web_name": "alfani-red-dress-shirt",
+    "status": "available",
+    "name": "Alfani RED Dress Shirt",
+    "image": {
+      "url": "/persistent/catalogue_images/products/dress02_001.jpg",
+      "title": "",
+      "description": "Alfani RED Dress Shirt"
+    },
+    "is_new": 0,
+    "product_id": "22807",
+    "is_on_sale": 0,
+    "url": "/shop/item/alfani-red-dress-shirt",
+    "is_featured": 0,
+    "rrp": "0.00",
+    "price": "25.99",
+	"code": "473960",
+	"attributes": {
+		"product": ["shirt"],
+		"size": ["small", "medium", "large"],		
+		"colour": ["blue"]
+	}
+},
+  
+{
+    "sort_order": "2",
+    "web_name": "basic-bootcut-jean",
+    "status": "available",
+    "name": "Basic Bootcut Jean",
+    "image": {
+      "url": "/persistent/catalogue_images/products/jeans02_001.jpg",
+      "title": "Basic Bootcut Jean with Flap Pockets",
+      "description": ""
+    },
+    "is_new": 0,
+    "product_id": "22813",
+    "is_on_sale": 0,
+    "url": "/shop/item/basic-bootcut-jean",
+    "is_featured": 0,
+    "rrp": "0.00",
+    "price": "187.00",
+    "code": "W19A7004",
+	"attributes": {
+		"product": ["jeans"],
+		"size": ["small", "medium", "large"],		
+		"colour": ["black"]
+	}
+},
+  
+{
+    "sort_order": "2",
+    "web_name": "fine-mens-chanel-neck-tie-gift-box-set-with-cufflinks-01",
+    "status": "available",
+    "name": "Chanel Neck Tie Gift Box Set with Cufflinks",
+    "image": {
+      "url": "/persistent/catalogue_images/products/tie03_001.jpg",
+      "title": "Fine Men's Chanel Neck Tie Gift Box Set with Cufflinks",
+      "description": ""
+    },
+    "is_new": 0,
+    "product_id": "22811",
+    "is_on_sale": 0,
+    "url": "/shop/item/fine-mens-chanel-neck-tie-gift-box-set-with-cufflinks-01",
+    "is_featured": 0,
+    "rrp": "0.00",
+    "price": "36.91",
+    "code": "Chan2141",
+	"attributes": {
+		"product": ["neck tie","cufflinks"],
+		"size": ["small", "medium", "large"],		
+		"colour": ["black", "navy"]
+	}
+},
+  
+{
+    "sort_order": "2",
+    "web_name": "intrecciato-leather-clutch",
+    "status": "available",
+    "name": "Intrecciato Leather Clutch",
+    "image": {
+      "url": "/persistent/catalogue_images/products/clutch02_001.jpg",
+      "title": "Intrecciato Leather Clutch",
+      "description": ""
+    },
+    "is_new": 0,
+    "product_id": "22810",
+    "is_on_sale": 0,
+    "url": "/shop/item/intrecciato-leather-clutch",
+    "is_featured": 0,
+    "rrp": "0.00",
+    "price": "2317.02",
+    "code": "95507",
+	"attributes": {
+		"product": ["clutch"],
+		"size": ["small"],		
+		"colour": ["pink"]
+	}
+}]
